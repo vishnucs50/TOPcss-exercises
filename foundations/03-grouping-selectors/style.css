@@ -1,0 +1,13 @@
+.same-size-font{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.same-size-font.black-background{
+    background-color: black;
+    color: white;
+}
+
+.same-size-font.yellow-background{
+    background-color: yellow;
+}
